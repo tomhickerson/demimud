@@ -13,6 +13,9 @@ download it, please make sure you respect their license.
 To download the data files, either run ./setup.sh (or ./setup.bat on Windows)
 or follow the steps inside it manually.
 
+Note that if you go this route you will probably have to change the path in the world.rs or the 
+state.rs file, so that the files will get picked up for parsing. 
+
 # License
 
 The files in the data directory that come from DemiMUD are public domain.
